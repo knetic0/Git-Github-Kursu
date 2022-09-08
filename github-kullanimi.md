@@ -103,9 +103,21 @@
 
 **Evet fork etmek istediğim projeye eriştim ve sağ üstte bulunan Fork seçeneğine basıp Fork ettim. Artık bu proje üzerinde oynamalar yapıp sunabilirim.**
 
+<img src="img/forkbar.png" />
+
 **```Push``` - Commit işlemiyle paketlenen yeni çalışmanın GitHub sunucusuna Push edilmesi ( İtilmesi) yani gönderilmesi işlemini ifade eder. Git dersimizde bu komutu görmüştük. Projemiz bittiğinde bu komut sayesinde github'a projemizi yükleyebiliriz.**
 
+```
+git push origin master
+```
+
 **```Pull``` - Başkalarınca yapılan değişikliklerin kendi bilgisayarınız veya sunucudaki ana dosya versiyonuna dahil etmek (çekmek) işlemidir.**
+
+```
+git pull [<repository>]
+```
+
+<img src="img/bar.png" />
 
 **```Issues``` - Türkçesi durum olarak adlandırılabilen issues kelimesi ile bir durum, sorun veya gelişme ile ilgili bilgilendirme açmak denebilir. Projeye dahil olanlar issues açıldığı zaman isterse konuya dahil olup durumun gerektirdiği işlemi yapar ve issues kapatılabilir.**
 
