@@ -122,3 +122,21 @@ git pull [<repository>]
 **```Issues``` - Türkçesi durum olarak adlandırılabilen issues kelimesi ile bir durum, sorun veya gelişme ile ilgili bilgilendirme açmak denebilir. Projeye dahil olanlar issues açıldığı zaman isterse konuya dahil olup durumun gerektirdiği işlemi yapar ve issues kapatılabilir.**
 
 **```Pull Request``` - Fork edilen proje üzerinde değişiklikler yaptıktan sonra gerçek repository’e gönderilerek o projenin sahibi olan geliştiricinin değerlendirmesine sunmaktır. Eğer PR kabul edilirse ana repository üzerinde, fork ettiğiniz proje üzerinde değişiklikler işlenir.**
+
+<br />
+
+>## Collaborators Nedir ?
+
+<br />
+
+**Collaborators, erişim kazandıkları başka birinin kişisel havuzlarında bir dizi eylem gerçekleştirebilir.**
+
+> **1- Repoda pull requests oluşturun, merge işlemini yapın ve kapatın. <br />
+2- Paketleri yayınlayın, görüntüleyin, yükleyin.  <br />
+3- Repository'leri forklayın. <br />
+4- Pull requestslerin önerdiği şekilde depolarda değişiklikleri yapın. <br />
+5- Sorunları veya istekleri yinelenen olarak işaretleyin. <br />
+6- Repodaki taahhütler, pull requestsleri ve sorunlar hakkında herhangi bir yorum oluşturun, düzenleyin ve silin. <br />
+7- Repolarda collaborators olarak kendilerini kaldırmak. <br />
+8- Repolardaki sürümleri yönetin.**
+
