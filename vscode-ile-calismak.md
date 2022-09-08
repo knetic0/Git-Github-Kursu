@@ -1,0 +1,3 @@
+# <center>VSCode İle Çalışmak - Orta Düzey Git ve Github Kursu</center>
+
+> **Evet bu kursdan önce kendi oluşturduğumuz projelerimizi Github'a yüklemiştik. Ayrıca bu yüklemeyi manuel olarak yüklemiştik. Bu bireysel çalışmalarda kullanılabilecek bir yöntem ama ileri düzey çalışmalarda bu yöntemin kullanılması pek uygun değil. Bugün öğrendiğimiz bütün kavramlarla önce Github projesi clone işlemi yapıcaz ardından sırasıyla adımları uygulayacağız. Branch işlemi, add, commit, merge, push, pull işlemlerini bir proje üzerinden anlatıcam.**
