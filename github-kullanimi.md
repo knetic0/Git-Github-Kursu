@@ -159,7 +159,7 @@ git pull [<repository>]
 
 <br />
 
->## Pull Resquest nedir ?
+>## Pull Request nedir ?
 
 <br />
 
