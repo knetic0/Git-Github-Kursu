@@ -85,6 +85,8 @@ Bu sayfa kendinizi diğer kullanıcılara tanıtmak için ve repolarınızı ser
 <br />
 
 <img src="img/createrepo2.png">
+<img src="img/privateRepo.png">
+
 
 **Burada biraz kavramlardan bahsetmek istiyorum.**
 
