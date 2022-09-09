@@ -155,7 +155,28 @@ git pull [<repository>]
 
 **```Issues``` - Türkçesi durum olarak adlandırılabilen issues kelimesi ile bir durum, sorun veya gelişme ile ilgili bilgilendirme açmak denebilir. Projeye dahil olanlar issues açıldığı zaman isterse konuya dahil olup durumun gerektirdiği işlemi yapar ve issues kapatılabilir.**
 
+<br />
+
+>## Pull Resquest nedir ?
+
+<br />
+
 **```Pull Request``` - Fork edilen proje üzerinde değişiklikler yaptıktan sonra gerçek repository’e gönderilerek o projenin sahibi olan geliştiricinin değerlendirmesine sunmaktır. Eğer PR kabul edilirse ana repository üzerinde, fork ettiğiniz proje üzerinde değişiklikler işlenir.**
+
+<br />
+
+> **1- Pull request yapmak için resimde görülen *Contribute* seçeneğine tıklanır. Çıkan menüde *Open pull request* seçeneği tıklanır.**
+<img src="img/pullrequest0.png" />
+
+<br />
+
+> **2- Yeni açılan sayfada github bizim için iki repoyu kıyaslar ve herhangi bir *conflict* çıkmaz ise ekranda *Able to merge* yani *merge edilebilir* yazısı çıkacaktır. Isterseniz *Write* kısmına notlarınızı yazabılırsınız. Ardından *Creat pull request tıklanır*.**
+<img src="img/pullrequest1.png" />
+
+<br />
+
+> **2- Pull requesti attıktan sonra karsımıza aşağıdaki menü çıkar. Bu menüden pull requestimizin durumunu kontrol edebiriz. Eğer kabul/ret durumu olmadıysa *Open* mesajı ekranın sol üst köşesinde görülür. Kabul veya ret durumundan herhangi biri gerçekleştirilir ise *Close* mesajı sol ustde belirtilir.**
+<img src="img/pullrequest3.png" />
 
 <br />
 
