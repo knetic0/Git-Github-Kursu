@@ -44,7 +44,35 @@
 
 <br />
 
+>## Profil sayfası incelemsi
+<br />
+
 <img src="img/github-owerviewpage.png">
+
+<br />
+
+**`Owerview` - Profilinize girdiğinizde karşınıza çıkan *genel bakış* sayfasıdır. 
+Bu sayfa kendinizi diğer kullanıcılara tanıtmak için ve repolarınızı sergilemek için kullanılır.**
+
+<br />
+
+<img src="img/repositories.png">
+
+<br />
+
+**`Repositories` - Repolarınızın bulunduğu menü kısmıdır. Repolarınızı bu konumda düzenleyebilirsiniz**
+
+<br />
+
+**`Projects` - GitHub'daki proje panoları, işinizi organize etmenize ve önceliklendirmenize yardımcı olur. Bir projede yönetici olarak çalışıyorsanız projeleri bu konumdan yönetebilirsiniz.**
+
+<br />
+
+**`Packages` - GitHub Paket Kaydı, paketlerinizi ve kodlarınızı tek bir yerde barındırmanıza olanak tanıyan, npmjs.org, rubygems.org veya hub.docker.com'a benzer bir yazılım paketi barındırma hizmetidir.**
+
+<br />
+
+**`Stars` - Eğer gördüğünüz bir repoyu beğenirseniz ve yıldızlarsanız, bu repo bu kısımda görülür.**
 
 <br />
 
