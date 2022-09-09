@@ -44,7 +44,7 @@
 
 <br />
 
-<img src="img/github-owerview.png">
+<img src="img/github-owerviewpage.png">
 
 <br />
 
