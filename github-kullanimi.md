@@ -42,6 +42,12 @@
 
 <img />
 
+<br />
+
+<img src="img/github-owerview.jpg">
+
+<br />
+
 >## Repository Nasıl Oluşturulur ?
 
 <br />
