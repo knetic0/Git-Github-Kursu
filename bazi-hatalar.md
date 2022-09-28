@@ -6,7 +6,7 @@
 
 > **Adımları teker teker ve dikkatli bir şekilde uygulayınız.**
 
-> **Öncelikle ```ssh-keygen``` komutu ile SSH Anahtarımızı oluşturalım.**
+> **Öncelikle ```ssh-keygen -o``` komutu ile SSH Anahtarımızı oluşturalım.**
 
 <img src="img/ssh-keygenimg/ssh-keygen.png" />
 
