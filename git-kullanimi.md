@@ -230,7 +230,7 @@ git switch feat
   master
 ```
 
-**Geçiş yaptık. Branch konusuna bir örnek verelim. Diyelim ki projemize yeni bir özellik (feature) eklemek istiyoruz ama bu özelliğin projemizi patlatma ihtimali var.**
+**Geçiş yaptık. Branch konusuna bir örnek verelim. Diyelim ki projemize yeni bir özellik (feature) eklemek istiyoruz ama bu özelliğin projemizi patlatma ihtimali var. Projemizin zarar görmemesi için başka bir branch üzerinde denemeler yapabiliriz. Başka bir örnek vermek istersek bir ekipteki her bireye bir branch verebiliriz bu şekilde görev bittikten sonra merge işlemi gerçekleştirilir.**
 
 <img src="https://miro.medium.com/max/1400/1*JbVkbGtNh08HreFuEk_n4w.png" />
 
